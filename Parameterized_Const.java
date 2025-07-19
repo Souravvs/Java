@@ -29,7 +29,8 @@ public class Parameterized_Const {
 		System.out.println("Enter the name: ");
 		name = sc.nextLine();
 		System.out.println("Enter the roll number: ");
-		rollNum = sc.nextLine();
+		rollNum = sc.nextInt();
+   sc.nextLine();
 		System.out.println("Enter the department: ");
 		dept = sc.nextLine();
 		
