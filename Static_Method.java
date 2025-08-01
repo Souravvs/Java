@@ -1,7 +1,7 @@
 /*
  * Author: Sourav V S
  * Date: 01-08-25
- * Description: Java program to implement static method.
+ * Description: Java program to implement static method and print the total number of students by incrementing the count each time a new student is added.
  */
 
 package p_108;
