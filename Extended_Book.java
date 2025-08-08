@@ -1,3 +1,9 @@
+/*
+ * Author: Sourav V S
+ * Date: 08-08-25
+ * Description: Java program to create a class named Book and also create extended class, then print all the details for each classes.
+ */
+
 class Book{
 	String title;
 	String author;
