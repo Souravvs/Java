@@ -1,3 +1,9 @@
+/*
+ Author: Sourav V S
+ Date: 03-10-2025
+ Description: Java program to showcase JFrame operations.
+ */
+
 package pk_01;
 
 import java.awt.FlowLayout;
@@ -23,3 +29,4 @@ public class JFrame_Demo {
 		
 	}
 }
+
